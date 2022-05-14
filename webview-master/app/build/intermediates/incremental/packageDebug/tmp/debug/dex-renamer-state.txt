@@ -1,0 +1,4 @@
+#Sat May 14 13:38:15 CEST 2022
+base.0=C\:\\Users\\Irune\\Documents\\UNI\\cuarto\\GPI 2\\webview\\webview-master\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
